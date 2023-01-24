@@ -9,7 +9,7 @@
   
 <!--   ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgavin1219&count_private=true) -->
   
-  ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgavin1219a&show_icons=true&theme=onedark)
+  ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgavin1219&show_icons=true&theme=onedark)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scgavin1219&layout=compact)](https://github.com/scgavin1219/github-readme-stats)
 
