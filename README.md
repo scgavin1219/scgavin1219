@@ -1,4 +1,4 @@
-### Hi there, I'm Dylan 👋
+### 👋 Hi there, I'm Dylan Gavin 
 
 <ul>
   <li>💻 I'm a Fullstack Software Engineer</li>
