@@ -10,7 +10,7 @@
   <li>⚽️ In my freetime I enjoy getting outside and playing sports</li>
   <li>🐉  I also love sci-fi/fantasy books and am always looking for my next recommendation</li>
   <li>📧 You can me email me at dyl.gavin@gmail.com</li>
-  <li>🔗Let's connect on a href="https://www.linkedin.com/in/dylan-gavin-a9595150/">LinkedIn</a></li>
+  <li>🔗Let's connect on <a href="https://www.linkedin.com/in/dylan-gavin-a9595150/">LinkedIn</a></li>
   
 <!--   ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgavin1219&count_private=true) -->
   
