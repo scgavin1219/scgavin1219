@@ -16,7 +16,7 @@
   
   ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgavin1219&show_icons=true&theme=onedark)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scgavin1219&layout=compact)](https://github.com/scgavin1219/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scgavin1219&layout=compact&theme=onedark)](https://github.com/scgavin1219/github-readme-stats)
 
 <!--
 **scgavin1219/scgavin1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
